@@ -47,7 +47,7 @@ Lataussivu pyytää antamaan henkilötiedot rekisteröitymistä varten. Voit oma
 
 ### Projektin luominen ja projektin asetukset
 
-[![Katso video](https://img.youtube.com/vi/N4WaQ2Ilvek/default.jpg)](https://youtu.be/N4WaQ2Ilvek?si=kPpcbjsfwF7nJUG3)
+[Katso video YouTubessa (kesto 01:13).](https://youtu.be/N4WaQ2Ilvek?si=kPpcbjsfwF7nJUG3)
 
 <strong>Projektin asetukset</strong>
 Ennen kuin aloitetaan työskentelemään varsinaisen editoinnin parissa, on päätettävä lopullisen tuotantovideon asetuksista muutama asia, tärkeimpänä **tarkkuus** ja **kuvataajuus**. Aikajanan kuvataajuuden muuttaminen jälkikäteen on haastavaa. Tarkkuutta voi kylläkin vielä muuttaa, mutta siitä huolimatta se kannattaa asettaa alussa oikeaksi. Niinpä paneutuminen näihin asetuksiin alussa on tärkeää.
@@ -80,7 +80,7 @@ Valitse **Timeline Frame Rate** -kohdasta kuvataajuus.
 
 Kuvataajuudella voi olla merkittävä vaikutus lopputulemaan ja katselukokemukseen. Alla on vertailu materiaalista, josta vasen on 25 fps (televisiossa käytettävä kuvataajuus) ja oikea on 60 fps (tyypillinen nykykameroiden kuvataajuus). Kannattaa katsoa video koko ruudun kokoisena, niin eron näkee paremmin.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PRrcLdj6lZM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+[Katso video YouTubessa (kesto 00:13).](https://youtu.be/PRrcLdj6lZM)
 
 Korkein mahdollinen kuvataajuus ei kuitenkaan ole itseisarvo. Kuvataajuuden valintaan vaikuttaa muutama asia, jotka tulee ottaa huomioon.
 
@@ -123,7 +123,7 @@ Resolve-ohjelmaan on tullut muutamia päivityksiä näiden videoiden julkaisemis
 
 Lähdemateriaali tuodaan Media Pool -kokoelmaan, josta se sitten myöhemmin järjestellään aikajanalle. Materiaalin tuomiseksi Media Pool -kokoelmaan valitse File -&gt; Import file -&gt; Import media. Voit myös raahata tiedostoja Resurssienhallinnasta / Finderista suoraan mediakokoelmaan.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gIOev483QXw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+[Katso video YouTubessa (kesto 01:29).](https://youtu.be/gIOev483QXw)
 
 ### Vielä lähdemateriaalista ja kuvataajuudesta
 
@@ -143,7 +143,7 @@ Resolvessa editointia voi tehdä sekä Cut- että Edit-toiminnoissa. Cut on tark
 
 Siirry Edit-tilaan.Raahaa video tai kuva aikajanalle (alla olevassa videossa ei ole ääntä). Voit raahata videon haluamallesi videoraidalle. Mikäli videoraitaa (ja vastaavasti audioraitaa) ei ole olemassa, uusi raita luodaan lennosta. Ylemmällä raidalla oleva materiaali (suurempi raidan tunniste, esimerkiksi Video 2) näkyy alemmalla raidalla (esimerkiksi Video 1) olevan materiaalin päällä. Audioraidoissa taas eri raidat summautuvat yhteen.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_zWWJaOO-9I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+[Katso video YouTubessa (kesto 00:20).](https://youtu.be/_zWWJaOO-9I)
 
 Aikajanaa katsellaan painamalla play-painiketta tai välilyöntiä näppäimistöllä. Saat aikajanan koko näytön kokoiseksi esikatseluksi painamalla näppäimistöltä P. Paina uudestaan P niin pääset takaisin.
 
@@ -153,13 +153,13 @@ Voit leikata joko (i) raahaamalla klippien päistä, tai (ii) käyttämällä pa
 
 Leikkauksen jälkeen klippien väliin saattaa jäädä tyhjää. Voit poistaa sen klikkaamalla tyhjästä kohdasta hiiren oikealla ja sitten Ripple Delete.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMq_jZyi7bI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+[Katso video YouTubessa (kesto 01:48).](https://youtu.be/JMq_jZyi7bI)
 
 **Klipin siirtäminen aikajanalla**
 
 Pidä näppäimistöllä pohjaan painettuna Ctrl- ja Shift-näppäimet (macOS:ssa Cmd ja Shift) ja raahaa haluamasi klippi / klipit valitsemaasi kohtaan.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jPXwaqA9Zd8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+[Katso video YouTubessa (kesto 01:49).](https://youtu.be/jPXwaqA9Zd8)
 
 **Materiaalin lisääminen aikajanalle, kun resoluutio tai kuvasuhde ei täsmää**
 
@@ -167,7 +167,7 @@ Jos lisättävän materiaalin resoluutio tai kuvasuhde ei täsmää projektin as
 
 Huomaa, että aina kun videon kokoa muutetaan, sen laatu väistämättä heikkenee. Parasta olisi, mikäli kaikki materiaali on resoluutioltaan (vähintään) yhtä tarkkaa, kuin aikajanan tarkkuus.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zrij7HHeXXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+[Katso video YouTubessa (kesto 02:26).](https://youtu.be/Zrij7HHeXXE")
 
 Voit halutessasi asettaa kaikille tuotaville materiaaleille saman "resolution mismatch" -asetuksen kohdasta File -&gt; Project Settings -&gt; Image scaling -&gt; Mismatched resolution files.
 
@@ -179,7 +179,7 @@ Yksinkertainen mutta tyylikäs tapa siirtyä klipistä toiseen on ristihäivytys
 
 Ristihäivytys tehdään muokkaamalla ylemmällä videoraidalla olevan materiaalin läpinäkyvyyttä. Videon vasemmassa (ja oikeassa) yläreunassa on pienet säätimet, jolla videon läpinäkyvyyttä voidaan säätää ajan suhteen. Raahaa vasemman yläreunan säädintä oikealle päin säätääksesi ristihäivytyksen pituutta. Tuloksena on lineaarinen ristihäivytys, jossa läpinäkyvyysarvo muuttuu tasaisesti nollasta (täysin läpinäkymättömästä) sataan (täysin läpinäkyvään).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TEHXHQ-j8pc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+[Katso video YouTubessa (kesto 02:00).](https://youtu.be/TEHXHQ-j8pc")
 
 **Siirtymätehosteet**
 
@@ -187,13 +187,13 @@ Siirtymätehosteet löytyvät Toolbox -&gt; Video Transitions -kohdasta. Käytä
 
 Alla esimerkki, jossa edellä tehty crossfade-siirtymä otetaan pois ja tilalle laitetaan siirtymätehoste.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/96PyHWJiNBU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+[Katso video YouTubessa (kesto 01:30).](https://youtu.be/96PyHWJiNBU")
 
 **Nopeuden muuttaminen**
 
 Voit nopeuttaa tai hidastaa videota klikkaamalla klipin päällä hiiren oikea -&gt; Retime Controls. Valitse prosenttilukeman vieressä oleva pieni kolmio ja haluamasi toistonopeus sieltä. Alle 100 prosentin nopeus hidastaa ja sitä suurempi nopeuttaa videota.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/elvl-XUg3Ig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+[Katso video YouTubessa (kesto 01:22).](https://youtu.be/elvl-XUg3Ig")
 
 ### Äänen muokkaaminen
 
@@ -213,11 +213,11 @@ Palataan nyt Fairlight-välilehdelle.
 
 Nyt näyttää paljon paremmalta. Mittari kyllä käy välillä keltaisella, mutta tämä on OK, kunhan se ei siellä ole kovin pitkään. Huomautus 1.11.2023: Äänentaso on todellakin turhan kovalla malliratkaisu-videossa, sillä en tehnyt tuota loudness-tarkastelua siinä. Päivitän malliratkaisun äänentasot myöhemmin; tämä vaatii myös malliratkaisu-videon päivittämisen...
 
-<span style="font-size: 0.9375rem;">Kiinnitä huomiota myös siihen, että äänenvoimakkuus pysyy tasaisena eri klippien välillä, ja hiljennä tai voimista eri klippejä tarpeen mukaan.&nbsp;</span><br>
+Kiinnitä huomiota myös siihen, että äänenvoimakkuus pysyy tasaisena eri klippien välillä, ja hiljennä tai voimista eri klippejä tarpeen mukaan.
 
 Audioraidan äänenvoimakkuuden muuttaminen yhden klipin sisällä (esim. fade in tai fade out -tyyppiset tilanteet): Pidä alt-näppäin (Windows) tai option-näppäin (macOS) painettuna. Lisää avainpisteitä käyrälle ja muuta äänenvoimakkuutta haluamaksesi.
 
-<img src="https://moodle.jyu.fi/draftfile.php/8869/user/draft/17014959/hiljenna-audio-2.gif" alt="Audio keyframes" width="700" height="394" class="img-responsive atto_image_button_text-bottom">
+<img src="kuvat/hiljenna-audio-2.gif" alt="Audio keyframes" />
 
 Voit myös poistaa linkityksen videon ja audion väliltä. Klikkaa videoklippiä hiiren oikealla ja klikkaa Link clips (jolloin valinta poistuu siitä kohdasta). Tämän jälkeen voit siirtää pelkkää audioraitaa irrallaan videoraidasta tai vaikkapa poistaa audioraidan kokonaan.
 
@@ -227,9 +227,11 @@ Jos et halua normalisoida koko ääniraitaa, voit toki tehdä sen haluamallesi k
 
 ### Tekstin lisääminen
 
-Tekstejä kutsutaan videoeditoinnissa termillä Title. Lue tekstien lisäämisestä seuraavan linkin kautta (englanniksi).
+Tekstejä kutsutaan videoeditoinnissa termillä Title.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-WLQlsHnEVw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+[Katso video YouTubessa (kesto 03:12).](https://youtu.be/-WLQlsHnEVw")
+
+Lue lisätietoja tekstien lisäämisestä seuraavan linkin kautta (englanniksi).
 
 <a href="https://motionarray.com/learn/davinci-resolve/davinci-resolve-titles-tutorial/#part-1-add-titles-to-a-davinci-resolve-project">https://motionarray.com/learn/davinci-resolve/davinci-resolve-titles-tutorial/#part-1-add-titles-to-a-davinci-resolve-project</a>
 
@@ -241,7 +243,7 @@ Avainruutujen avulla halutun parametrin muutos voidaan tarkasti määrittää aj
 
 Tehdään klippiin kierto siten, että lähtötilanteessa kierto on 0 astetta (eli "normaali"), sitten klippi kiertyy 180 astetta, palaten takaisin 0 asteeseen. Katso oheinen video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UvpLiHwMnBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+[Katso video YouTubessa (kesto 01:38).](https://youtu.be/UvpLiHwMnBs")
 
 Voit lisätä klippiin useisiin eri parametreihin kohdistuvia avainruutuja. Voit esimerkiksi muuttaa yhtäaikaisesti sekä kiertoa että sijaintia. Kokeile!
 
@@ -265,4 +267,4 @@ Valittuasi haluamasi asetukset, klikkaa Add to Render Queue, ja sitten oikealta 
 
 Seuraava video havainnollistaa videon pakkaamista ja bittinopeutta.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r6Rp-uo6HmI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+[Katso video YouTubessa (kesto 04:19).](https://youtu.be/r6Rp-uo6HmI")
