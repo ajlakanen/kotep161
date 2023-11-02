@@ -212,7 +212,7 @@ Palataan nyt Fairlight-välilehdelle.
 
 <img src="kuvat/loudness-3.gif" alt="loudness-2"/>
 
-Nyt näyttää paljon paremmalta. Mittari kyllä käy välillä keltaisella, mutta tämä on OK, kunhan se ei siellä ole kovin pitkään. Huomautus 1.11.2023: Äänentaso on todellakin turhan kovalla malliratkaisu-videossa, sillä en tehnyt tuota loudness-tarkastelua siinä. Päivitän malliratkaisun äänentasot myöhemmin; tämä vaatii myös malliratkaisu-videon päivittämisen...
+Nyt näyttää paljon paremmalta. Mittari kyllä käy välillä keltaisella, mutta tämä on OK, kunhan se ei siellä ole kovin pitkään. Huomautus 1.11.2023: Äänentason loudness-tarkastelu kyllä tehtiin mallivideossa (ääniraitaa hiljennettiin n. 13dB), mutta sitä ei videossa näytetty. Päivitän malliratkaisun videon myöhemmin...
 
 Kiinnitä huomiota myös siihen, että äänenvoimakkuus pysyy tasaisena eri klippien välillä, ja hiljennä tai voimista eri klippejä tarpeen mukaan.
 
