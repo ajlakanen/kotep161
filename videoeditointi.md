@@ -47,7 +47,7 @@ Lataussivu pyytää antamaan henkilötiedot rekisteröitymistä varten. Voit oma
 
 ### Projektin luominen ja projektin asetukset
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N4WaQ2Ilvek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+[![Katso video](https://img.youtube.com/vi/N4WaQ2Ilvek/default.jpg)](https://youtu.be/N4WaQ2Ilvek?si=kPpcbjsfwF7nJUG3)
 
 <strong>Projektin asetukset</strong>
 Ennen kuin aloitetaan työskentelemään varsinaisen editoinnin parissa, on päätettävä lopullisen tuotantovideon asetuksista muutama asia, tärkeimpänä **tarkkuus** ja **kuvataajuus**. Aikajanan kuvataajuuden muuttaminen jälkikäteen on haastavaa. Tarkkuutta voi kylläkin vielä muuttaa, mutta siitä huolimatta se kannattaa asettaa alussa oikeaksi. Niinpä paneutuminen näihin asetuksiin alussa on tärkeää.
