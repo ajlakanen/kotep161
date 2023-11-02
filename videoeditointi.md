@@ -35,7 +35,7 @@ Tällä kurssilla suosittelemme käyttämään **DaVinci Resolve** -ohjelmistoa.
 
 Ilmoitathan luennoitsijalle jos havaitsette oppimateriaalissa puutteita tai vanhentuneita asioita, linkkejä tms.
 
-### Lataaminen ja asentaminen
+## Lataaminen ja asentaminen
 
 <a href="https://www.blackmagicdesign.com/products/davinciresolve/">**Lataa ja asenna Davinci Resolve -ohjelmisto**</a>. Kyseessä on kaupallinen ohjelmisto josta saa kuitenkin ladattua maksuttoman version omaa käyttöä varten. **Huom! Älä lataa ohjelman Studio-versiota**, sillä se on maksullinen sovellus.
 
@@ -45,11 +45,12 @@ Lataussivu pyytää antamaan henkilötiedot rekisteröitymistä varten. Voit oma
 
 **Huomautus 2**: Videoeditointi on tietokoneen tehojen kannalta melko vaativaa työskentelyä. Keskusmuistia tulisi olla vähintään 8 gigatavua, mutta 16 gigatavua on suositeltava. Myös prosessorin teholla on merkitystä siihen kuinka sujuvasti editointi onnistuu. Mikäli näyttää siltä, että koneesi ei jaksa kunnolla pyörittää Resolvea, voit kokeilla (1) käyttää Shotcutia, joka on hieman kevyempi ohjelmisto, tai (2) pienentää editoitavien videoiden resoluutiota esimerkiksi 720p-resoluutioon ja enintään 30 fps kuvataajuuteen (ks. [ohjevideo YouTubessa](https://youtu.be/KlzqDhXuFlo)).
 
-### Projektin luominen ja projektin asetukset
+## Projektin luominen ja projektin asetukset
 
 [Katso video YouTubessa (kesto 01:13).](https://youtu.be/N4WaQ2Ilvek?si=kPpcbjsfwF7nJUG3)
 
-<strong>Projektin asetukset</strong>
+**Projektin asetukset**
+
 Ennen kuin aloitetaan työskentelemään varsinaisen editoinnin parissa, on päätettävä lopullisen tuotantovideon asetuksista muutama asia, tärkeimpänä **tarkkuus** ja **kuvataajuus**. Aikajanan kuvataajuuden muuttaminen jälkikäteen on haastavaa. Tarkkuutta voi kylläkin vielä muuttaa, mutta siitä huolimatta se kannattaa asettaa alussa oikeaksi. Niinpä paneutuminen näihin asetuksiin alussa on tärkeää.
 Valitse oikeasta alalaidasta rattaan kuva. Katsotaan sitten tarkemmin paria asetusta.
 **Projektin kuvatarkkuus (resoluutio)**
@@ -76,7 +77,7 @@ on riittävän tarkkaa, ja tietokoneesi on riittävän tehokas. Ihanteellisessa 
 
 **Projektin kuvataajuus (frame rate)**
 
-Valitse **Timeline Frame Rate** -kohdasta kuvataajuus.
+Valitse _Timeline Frame Rate_ -kohdasta kuvataajuus.
 
 Kuvataajuudella voi olla merkittävä vaikutus lopputulemaan ja katselukokemukseen. Alla on vertailu materiaalista, josta vasen on 25 fps (televisiossa käytettävä kuvataajuus) ja oikea on 60 fps (tyypillinen nykykameroiden kuvataajuus). Kannattaa katsoa video koko ruudun kokoisena, niin eron näkee paremmin.
 
@@ -91,7 +92,7 @@ Korkein mahdollinen kuvataajuus ei kuitenkaan ole itseisarvo. Kuvataajuuden vali
     <li>Videon tarkoitus. Elävää kuvaa ja paljon liikettä sisältävät videot halutaan yleensä toistaa korkeammalla kuvataajuudella (esimerkiksi 60 fps), jotta liike toistuu luonnollisena, olettaen että lähdemateriaali on kuvattu riittävän korkealla kuvataajuudella.
         Powerpoint-esityksessä, joka ei sisällä runsaasti liikettä, kuvataajuus on kuitenkin likimain yhdentekevä, joten alhainenkin kuvataajuus (esimerkiksi 15 fps) saattaa riittää kohdeyleisölle hyvin.</li>
     <li>Kohdealustan rajoitukset esimerkiksi tiedostokoolle. Kuvataajuuden vaikutus videon tiedoston kokoon on suora: Taajuuden kaksinkertaistaminen (esim. 15 -&gt; 30, tai 30 -&gt; 60) likimain tuplaa videotiedoston koon. Mikäli tiedoston koko halutaan saada
-        mahdollisimman pieneksi, voi kuvataajuutta joutua pienentämään. Tiedostokokoa voi pienentää myös lisäämällä pakkauksen tehokkuutta (ks. alaluku <a href="#deliver">Valmiin videon toimittaminen</a>)</li>
+        mahdollisimman pieneksi, voi kuvataajuutta joutua pienentämään. Tiedostokokoa voi pienentää myös lisäämällä pakkauksen tehokkuutta (ks. alaluku deliver>Valmiin videon toimittaminen</a>)</li>
 </ol>
 
 Selvitä lähdemateriaalisi kuvataajuus ennen videoprojektin kuvataajuuden päättämistä.
@@ -112,30 +113,30 @@ On kuitenkin parasta tähdätä alusta alkaen siihen kuvataajuuteen, joka projek
 Muihin asetuksiin ei tarvitse tämän kurssin puitteissa koskea. Jos tietokoneellasi on vaikeuksia pyörittää projektin esikatselukuvaa, voit kokeilla laskea Video Monitoring -kohdasta Video format -valintaa alhaisemmalle tarkkuudelle (oletuksena HD 1080i
 60).
 
-### Resolve-ohjelman käyttöliittymä
+## Resolve-ohjelman käyttöliittymä
 
 Alalaidassa olevilla painikkeilla (Media, Cut, Edit, ...) siirrytään projektissa tilasta toiseen. Työskentely alkaa alkuperäisen materiaalin tuomisella (Media), jonka jälkeen siirrytään leikkausvaiheeseen (Cut). Tämän jälkeen alkaa tarkempi editointi
 (Edit) ja niin edelleen. Viimeisenä vaiheena on valmiin videon toimittaminen lopulliseksi videotiedostoksi (Deliver). Tässä materiaalissa käsitellään vain osa näistä toiminnoista.
 
 Resolve-ohjelmaan on tullut muutamia päivityksiä näiden videoiden julkaisemisen jälkeen, joten käyttöliittymä ei välttämättä näytä täysin samalta kaikin osin.
 
-### Materiaalin tuominen projektiin (Media)
+## Materiaalin tuominen projektiin (Media)
 
 Lähdemateriaali tuodaan Media Pool -kokoelmaan, josta se sitten myöhemmin järjestellään aikajanalle. Materiaalin tuomiseksi Media Pool -kokoelmaan valitse File -&gt; Import file -&gt; Import media. Voit myös raahata tiedostoja Resurssienhallinnasta / Finderista suoraan mediakokoelmaan.
 
 [Katso video YouTubessa (kesto 01:29).](https://youtu.be/gIOev483QXw)
 
-### Vielä lähdemateriaalista ja kuvataajuudesta
+## Vielä lähdemateriaalista ja kuvataajuudesta
 
 Kun ensimmäisen kerran tuot lähdemateriaalia Media Pool -kokoelmaan, ohjelma saattaa ilmoittaa:
 
 <blockquote>
-        The clip(s) have a different frame rate than the current project settings. Would you like to change your timeline frame rate and video format to match?
+The clip(s) have a different frame rate than the current project settings. Would you like to change your timeline frame rate and video format to match?
 </blockquote>
 
 Tämä tarkoittaa sitä että tuodun materiaalin kuvataajuus ja projektin aikajanan kuvataajuus eivät täsmää. Jos vastaat tähän kysymykseen Change (eli kyllä), aikajanan kuvataajuus muutetaan samaksi kuin lähdemateriaalisi kuvataajuus. Mikäli valitset Don't Change (eli ei), aikajanan kuvataajuus jätetään siihen asetukseen joka se alunperinkin oli, ja tällöin materiaalin kuvataajuus ei vastaa aikajanaa. **Tämä on tärkeä kohta, ja on tärkeää, että tiedostat millä tavalla valitseminen vaikuttaa lopulliseen videoon.** Jos et ole varma mitä sinun tulisi valita, palaa tämän ohjeen kohtaan Projektin kuvataajuus ja pohdi asiaa uudelleen. Todennäköisesti turvallisin valinta tässä on kuitenkin Kyllä.
 
-### Aikajanan käyttö ja leikkaaminen (Edit)
+## Aikajanan käyttö ja leikkaaminen (Edit)
 
 Resolvessa editointia voi tehdä sekä Cut- että Edit-toiminnoissa. Cut on tarkoitettu nopeaan ja suoraviivaiseen editointiin. Edit-toimintoa käytetään, kun halutaan tehdä hieman monimutkaisempaa editointia, kuten lisätä tekstejä, siirtymiä ja käyttää avainruutuja. Tässä ohjeessa keskitytään **Edit-toimintoon**, mutta voit omatoimisesti kokeilla myös Cut-toimintoa.
 
@@ -171,7 +172,7 @@ Huomaa, että aina kun videon kokoa muutetaan, sen laatu väistämättä heikken
 
 Voit halutessasi asettaa kaikille tuotaville materiaaleille saman "resolution mismatch" -asetuksen kohdasta File -&gt; Project Settings -&gt; Image scaling -&gt; Mismatched resolution files.
 
-### Siirtymät ja tehosteet
+## Siirtymät ja tehosteet
 
 **Siirtymä, ristihäivytys (crossfade)**
 
@@ -195,7 +196,7 @@ Voit nopeuttaa tai hidastaa videota klikkaamalla klipin päällä hiiren oikea -
 
 [Katso video YouTubessa (kesto 01:22).](https://youtu.be/elvl-XUg3Ig")
 
-### Äänen muokkaaminen
+## Äänen muokkaaminen
 
 On varsin tärkeää, että ääniraita ei ole liian hiljainen tai voimakas. Valitettavasti Edit-välilehdellä ei ole helppoa tapaa tarkastella onko ääni "sopivan" voimakas. Tämä tapahtuukin käyttämällä Fairlight-välilehteä (musiikki-ikoni). Tarkkaillaan Loudness-mittaria, jonka pitäisi pysytellä mahdollisimman lähellä 0-tasoa. Otetaan esimerkki Taso 3 -tehtävän ääniraidasta (tässä ei kuulu ääni vaan näkyy vain pelkkä kuva):
 
@@ -225,9 +226,9 @@ Voit myös poistaa linkityksen videon ja audion väliltä. Klikkaa videoklippiä
 
 Jos et halua normalisoida koko ääniraitaa, voit toki tehdä sen haluamallesi klipille erikseen.
 
-### Tekstin lisääminen
+## Tekstit (Title)
 
-Tekstejä kutsutaan videoeditoinnissa termillä Title.
+Tekstejä kutsutaan videoeditoinnissa termillä Title. Tekstitystekstejä (Subtitles) emme tässä käsittele.
 
 [Katso video YouTubessa (kesto 03:12).](https://youtu.be/-WLQlsHnEVw")
 
@@ -235,7 +236,7 @@ Lue lisätietoja tekstien lisäämisestä seuraavan linkin kautta (englanniksi).
 
 <a href="https://motionarray.com/learn/davinci-resolve/davinci-resolve-titles-tutorial/#part-1-add-titles-to-a-davinci-resolve-project">https://motionarray.com/learn/davinci-resolve/davinci-resolve-titles-tutorial/#part-1-add-titles-to-a-davinci-resolve-project</a>
 
-### Avainruudut (keyframes)
+## Avainruudut (Keyframes)
 
 Avainruutujen avulla halutun parametrin muutos voidaan tarkasti määrittää ajan suhteen. "Parametri" voi olla melkein mikä tahansa sellainen asia, jonka videolle pystyy tekemään, esimerkiksi sijainti, koko, kierto, tai vaikkapa efektin voimakkuus. Otetaan yksinkertainen esimerkki.
 
@@ -247,7 +248,7 @@ Tehdään klippiin kierto siten, että lähtötilanteessa kierto on 0 astetta (e
 
 Voit lisätä klippiin useisiin eri parametreihin kohdistuvia avainruutuja. Voit esimerkiksi muuttaa yhtäaikaisesti sekä kiertoa että sijaintia. Kokeile!
 
-### Valmiin videon toimittaminen (Deliver)
+## Valmiin videon toimittaminen (Deliver)
 
 Kun video on valmis katseltavaksi, valitse Deliver-kohta alapalkista.
 
